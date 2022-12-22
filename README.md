@@ -5,6 +5,6 @@ Esse repositório estamos estudando os conceitos básicos de JavaScript!
 ### Os requisitos são:
 
 * [HTML básico](https://www.w3schools.com/html/)
-* [JavaScript básico]([https://www.w3schools.com/js/default.asp])
+* [JavaScript básico](https://www.w3schools.com/js/default.asp)
 
 ## 🚀 Vamos que vamos 🚀
